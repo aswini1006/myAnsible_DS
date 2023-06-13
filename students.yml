@@ -1,0 +1,23 @@
+---
+- Students: 
+  - name: aswini
+    phno: 8573909995
+    address:
+        doorNo: 8-63
+        street: Lawyerpet
+        Pincode: 523002 
+    
+  - name: vijay
+    phno: 7063045220
+    address:
+        doorNo: 429
+        street: Bandlamitta
+        Pincode: 523002
+    
+  - name: akki
+    phno: 9177625666
+    address:
+        doorNo: 301
+        street: Gaddalagunta
+        pincode: 523002
+     
