@@ -1,11 +1,11 @@
-[my Webservers]
+[myWebservers]
 172.31.45.167
 172.31.43.126
 
-[my appservers]
+[myappservers]
 172.31.45.16
 172.31.43.12
 
-[my DBservers]
+[myDBservers]
 172.31.45.17
 172.31.43.16
