@@ -24,5 +24,5 @@
   - name: I want to start webserver on Redhat
     service:
      name: httpd
-     state: present
+     state: started
     when: ansible_os_family=="RedHat"     
